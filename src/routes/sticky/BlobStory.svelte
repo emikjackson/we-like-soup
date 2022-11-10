@@ -74,7 +74,7 @@
 
 <HeaderBlock {bgColor}>
   <h1>Sticky Scrolling!</h1>
-  <p>An example of sticky scrolling interactions.</p>
+  <p>A couple examples of sticky scrolling interactions.</p>
 </HeaderBlock>
 
 <Section {bgColor}>

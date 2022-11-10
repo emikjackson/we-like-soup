@@ -4,10 +4,10 @@
 
 <div class="wrapper">
   <h2>Svelte Scrolly Playground</h2>
+  <p>Welcome! This is a space to test out different styles of scrolling-storytelling.</p>
   <nav>
-    <a href="/ocean">Ocean</a>
-    <!-- <a href="/blob">Blob</a> -->
-    <a href="/sticky">Sticky</a>
+    <a href="/sticky">Sticky Studies</a>
+    <a href="/ocean">Ocean Dive</a>
   </nav>
 </div>
 
@@ -22,10 +22,15 @@
   }
   nav {
     margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  p {
+    color: white;
   }
   h2 {
     color: white;
     margin-top: 0px;
+    margin-bottom: 10px;
   }
   a {
     background-color: white;
@@ -35,6 +40,7 @@
     position: static;
     z-index: 1000;
     color: black;
+    margin: 0px 5px;
   }
 </style>
 
