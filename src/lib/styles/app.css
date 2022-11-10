@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: 'Poor Story', sans-serif;
+  font-size: 1.2em;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
