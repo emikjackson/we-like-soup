@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="63px" viewBox="0 0 100 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CurvedTriangle</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M50,0.5 C58.2162634,0.5 66.4055704,5.7253196 74.6083555,16.0608289 C82.8282526,26.4178993 91.0433692,41.8995565 99.2629167,62.5 L99.2629167,62.5 L0.73708333,62.5 C8.95663084,41.8995565 17.1717474,26.4178993 25.3916445,16.0608289 C33.5944296,5.7253196 41.7837366,0.5 50,0.5 Z" id="CurvedTriangle" stroke="#979797" fill="#D8D8D8"></path>
+    </g>
+</svg>

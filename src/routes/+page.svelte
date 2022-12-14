@@ -8,6 +8,7 @@
   <nav>
     <a href="/sticky">Sticky Studies</a>
     <a href="/ocean">Ocean Dive</a>
+    <a href="/simple">Simple</a>
   </nav>
 </div>
 

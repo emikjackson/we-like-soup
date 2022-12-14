@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="807px" height="806px" viewBox="0 0 807 806" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>spoon_yellow</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M649,221 C612,231 481.5,358 452,373.5 C422.5,389 335.5,393 279.5,407 C223.5,421 102.5,469.5 102.5,516.5 C102.5,563.5 281.5,610.5 379.5,575.5 C477.5,540.5 460,444 506.5,402 C553,360 664.5,254 698.5,243.5 C732.5,233 686,211 649,221 Z" id="spoon" fill="#E0D584"></path>
+        <path d="M132,517 C110,506 134,490.5 209.5,451.5 C259.833333,425.5 337.166667,409.333333 441.5,403 C454.166667,444.333333 417.333333,476.5 331,499.5 C201.5,534 154,528 132,517 Z" id="shadow" fill="#C4B85F"></path>
+    </g>
+</svg>
