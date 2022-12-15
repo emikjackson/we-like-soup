@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup1</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(192.000000, 265.000000)">
+            <g id="topping" transform="translate(0.000000, 72.000000)">
+                <circle id="Oval" stroke="#AA3030" stroke-width="6" fill="#CF6262" cx="66.5" cy="66.5" r="63.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="25.5" cy="66.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="55.5" cy="33.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="72.5" cy="104.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="105.5" cy="96.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="64.5" cy="67.5" r="8.5"></circle>
+            </g>
+            <g id="topping" transform="translate(305.000000, 0.000000)">
+                <path d="M74.5,32 C92.0350408,32 107.910041,39.1074796 119.401281,50.5987194 C130.2335,61.4309389 137.170357,76.1585212 137.930384,92.5 L137.930384,92.5 L11.0696157,92.5 C11.8296433,76.1585212 18.7664999,61.4309389 29.5987194,50.5987194 C41.0899592,39.1074796 56.9649592,32 74.5,32 Z" id="Oval" stroke="#AA3030" stroke-width="6" fill="#CF6262" transform="translate(74.500000, 62.250000) rotate(30.000000) translate(-74.500000, -62.250000) "></path>
+                <circle id="Oval" fill="#F7C8C8" cx="43.5" cy="60.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="74.5" cy="53.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="101.5" cy="88.5" r="8.5"></circle>
+            </g>
+            <g id="topping" transform="translate(363.500000, 320.500000) scale(-1, 1) translate(-363.500000, -320.500000) translate(289.000000, 258.000000)">
+                <path d="M74.5,32 C92.0350408,32 107.910041,39.1074796 119.401281,50.5987194 C130.2335,61.4309389 137.170357,76.1585212 137.930384,92.5 L137.930384,92.5 L11.0696157,92.5 C11.8296433,76.1585212 18.7664999,61.4309389 29.5987194,50.5987194 C41.0899592,39.1074796 56.9649592,32 74.5,32 Z" id="Oval" stroke="#AA3030" stroke-width="6" fill="#CF6262" transform="translate(74.500000, 62.250000) rotate(30.000000) translate(-74.500000, -62.250000) "></path>
+                <circle id="Oval" fill="#F7C8C8" cx="43.5" cy="60.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="74.5" cy="53.5" r="8.5"></circle>
+                <circle id="Oval" fill="#F7C8C8" cx="101.5" cy="88.5" r="8.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

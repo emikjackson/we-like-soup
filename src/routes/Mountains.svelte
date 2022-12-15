@@ -1,9 +1,8 @@
 <script>
   import Scrolly from "$lib/components/Scrolly.svelte";
-  import Scene from "../../lib/components/graphics/Scene.svelte";
-  import HeaderBlock from "./HeaderBlock.svelte";
-  import Section from "./Section.svelte";
-  import Tile from "./Tile.svelte";
+  import Scene from "$lib/components/graphics/Scene.svelte";
+  import Section from "$lib/components/Section.svelte";
+  import Tile from "$lib/components/Tile.svelte";
   let stepIndex = 0;
   const bgColor = "#ebebeb";
 
@@ -85,11 +84,6 @@
   const tileWidth = 400;
   const sceneHeight = 488;
 </script>
-
-<HeaderBlock {bgColor}>
-  <h2>Next, let's try some side-by-side action.</h2>
-  <p>Two-column view when on desktop, back to overlap on smaller screens.</p>
-</HeaderBlock>
 
 <Section {bgColor}>
   <div class="sticky">

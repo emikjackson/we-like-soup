@@ -1,47 +1,77 @@
 <script>
-
+  import SoupScroller from './SoupScroller.svelte';
+  import SpoonHero from './SpoonHero.svelte';
+  import lights from '$lib/assets/lights.svg';
 </script>
 
+
+<div class="top-lights">
+  <img src={lights} alt="" />
+</div>
+
 <div class="wrapper">
-  <h2>Svelte Scrolly Playground</h2>
-  <p>Welcome! This is a space to test out different styles of scrolling-storytelling.</p>
-  <nav>
-    <a href="/sticky">Sticky Studies</a>
-    <a href="/ocean">Ocean Dive</a>
-    <a href="/simple">Simple</a>
-  </nav>
+  <h2>'Tis the season of</h2>
+  <h1>Soup</h1>
+
+  <SpoonHero />
+
+  <h3>Some soup inspiration from the January Advisors team</h3>
+
+  <div class="text">
+    <p>Perhaps your winter has been similar to ours - getting chillier and interrupted by the occasional illness. A soothing comfort for both cold weather and cold-occupying heads, no food provides that deep-warmth-inside-body feeling quite like soup. With so many ways to ladle out a bowl, soup is also a perfect dish to share with friends and family.</p>
+    <p>Here are some of the favorite soups we've had the pleasure of making or consuming this season. We hope they inspire you to enjoy a soup soon! :)</p>
+  </div>
+</div>
+
+<SoupScroller />
+
+<div class="wrapper">
+  <p>That's it! Those were all of our soups.</p>
+  <p style="margin-top:0px;">Did our ideas delight? Disgust? Don't judge a soup by it's cartoon, & happy souping! :)</p>
 </div>
 
 <style>
-  .wrapper {
+
+  .top-lights {
+    display: flex;
     width: 100%;
-    height: 100vh;
+    overflow: hidden;
+    justify-content: center;
+  }
+
+  .top-lights > img {
+    min-width: 100%;
+    width: 1000px;
+  }
+
+  .text {
+    width: 90%;
+    max-width: 800px;
+  }
+
+  .wrapper {
+    min-height: 70vh;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
   }
-  nav {
-    margin-bottom: 40px;
-    margin-top: 20px;
-  }
-  p {
-    color: white;
-  }
-  h2 {
-    color: white;
+
+  h1 {
+    font-size: 5rem;
+    letter-spacing: 0.4rem;
     margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  h2 {
     margin-bottom: 10px;
   }
-  a {
-    background-color: white;
-    padding: 20px;
-    border: 1px solid lightgray;
-    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.1); 
-    position: static;
-    z-index: 1000;
-    color: black;
-    margin: 0px 5px;
+
+  h3 {
+    color: rgb(76, 76, 76);
+    text-align: center;
+    font-style: italic;
   }
 </style>
-

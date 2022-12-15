@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup1</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(232.000000, 187.500000)">
+            <g id="Group-2" fill="#226133">
+                <polygon id="Path-11" points="217 352.5 245 294.5 319.5 294.5 337.5 242 383 275 364.5 322.5 300 329.5 270.5 365.5"></polygon>
+                <polygon id="Path-11" points="0 382.5 28 324.5 102.5 324.5 120.5 272 166 305 147.5 352.5 83 359.5 53.5 395.5"></polygon>
+                <polygon id="Path-11" points="83 110.5 111 52.5 185.5 52.5 203.5 0 249 33 230.5 80.5 166 87.5 136.5 123.5"></polygon>
+            </g>
+            <rect id="Rectangle" fill="#FFEDD8" transform="translate(176.000000, 180.500000) rotate(18.000000) translate(-176.000000, -180.500000) " x="150" y="140.5" width="52" height="80" rx="26"></rect>
+            <rect id="Rectangle" fill="#FFEDD8" transform="translate(233.000000, 225.500000) rotate(18.000000) translate(-233.000000, -225.500000) " x="207" y="185.5" width="52" height="80" rx="26"></rect>
+            <rect id="Rectangle" fill="#FFEDD8" transform="translate(93.000000, 437.500000) scale(-1, 1) rotate(18.000000) translate(-93.000000, -437.500000) " x="67" y="397.5" width="52" height="80" rx="26"></rect>
+            <rect id="Rectangle" fill="#FFEDD8" transform="translate(167.000000, 444.500000) scale(-1, 1) rotate(18.000000) translate(-167.000000, -444.500000) " x="141" y="404.5" width="52" height="80" rx="26"></rect>
+        </g>
+    </g>
+</svg>

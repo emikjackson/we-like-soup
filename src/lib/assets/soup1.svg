@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup1</title>
+    <defs>
+        <circle id="path-1" cx="376.5" cy="399.619491" r="376.5"></circle>
+        <filter x="-3.7%" y="-3.5%" width="107.4%" height="107.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="-8.80883836%" cy="-19.1833764%" fx="-8.80883836%" fy="-19.1833764%" r="103.358631%" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(48.000000, 24.880509)">
+            <g id="bowl_outer">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#E86F48" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <circle id="bowl_inner" fill="#924A33" cx="376.5" cy="399.619491" r="335"></circle>
+            <circle id="broth" fill="#F3D163" cx="376.5" cy="399.619491" r="309"></circle>
+            <circle id="highlight" fill="url(#radialGradient-3)" opacity="0.562376476" cx="376.5" cy="399.619491" r="281"></circle>
+            <path d="M497.5,205.119491 C554.5,73.4528244 588.5,5.61949108 599.5,1.61949108 C616,-4.38050892 624.593846,7.07195951 646.5,23.1194911 C668.406154,39.1670226 685.5,51.6194911 685.5,64.6194911 C685.5,73.2861577 631.333333,126.619491 523,224.619491 L497.5,205.119491 Z" id="spoon1" fill="#AAAAAA"></path>
+            <path d="M510,214.119491 C595.666667,86.7861577 641.166667,23.1194911 646.5,23.1194911 C654.5,23.1194911 685.5,51.6194911 685.5,64.6194911 C685.5,73.2861577 631.333333,126.619491 523,224.619491 L510,214.119491 Z" id="spoon1" fill="#8F8F8F"></path>
+        </g>
+        <g id="Group-2" transform="translate(232.000000, 187.500000)" fill="#226133">
+            <polygon id="Path-11" points="230 418.5 258 360.5 332.5 360.5 350.5 308 396 341 377.5 388.5 313 395.5 283.5 431.5"></polygon>
+            <polygon id="Path-11" points="0 382.5 28 324.5 102.5 324.5 120.5 272 166 305 147.5 352.5 83 359.5 53.5 395.5"></polygon>
+            <polygon id="Path-11" points="83 110.5 111 52.5 185.5 52.5 203.5 0 249 33 230.5 80.5 166 87.5 136.5 123.5"></polygon>
+        </g>
+        <g id="topping" transform="translate(192.000000, 337.000000)">
+            <circle id="Oval" stroke="#AA3030" stroke-width="6" fill="#CF6262" cx="66.5" cy="66.5" r="63.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="25.5" cy="66.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="55.5" cy="33.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="72.5" cy="104.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="105.5" cy="96.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="64.5" cy="67.5" r="8.5"></circle>
+        </g>
+        <g id="topping" transform="translate(497.000000, 265.000000)">
+            <path d="M74.5,32 C92.0350408,32 107.910041,39.1074796 119.401281,50.5987194 C130.2335,61.4309389 137.170357,76.1585212 137.930384,92.5 L137.930384,92.5 L11.0696157,92.5 C11.8296433,76.1585212 18.7664999,61.4309389 29.5987194,50.5987194 C41.0899592,39.1074796 56.9649592,32 74.5,32 Z" id="Oval" stroke="#AA3030" stroke-width="6" fill="#CF6262" transform="translate(74.500000, 62.250000) rotate(30.000000) translate(-74.500000, -62.250000) "></path>
+            <circle id="Oval" fill="#F7C8C8" cx="43.5" cy="60.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="74.5" cy="53.5" r="8.5"></circle>
+            <circle id="Oval" fill="#F7C8C8" cx="101.5" cy="88.5" r="8.5"></circle>
+        </g>
+    </g>
+</svg>
