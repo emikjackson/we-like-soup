@@ -1,12 +1,19 @@
 body {
   margin: 0px;
-  font-family: 'Poor Story', sans-serif;
   font-size: 1.4em;
   /* background: linear-gradient(rgb(247, 253, 255), #fff); */
 }
 
+h1, h2, h3 {
+  /* font-family: 'Poor Story', sans-serif; */
+  font-family: 'Caveat', cursive;
+}
+
 p {
-  /* font-family: 'Quicksand', sans-serif; */
+  font-size: 1.1rem;
+  font-family: 'Noto Serif', serif;
+  color: rgb(39, 39, 39);
+  font-family: 'Signika Negative', sans-serif;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */

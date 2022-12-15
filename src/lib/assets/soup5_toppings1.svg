@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup5</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-16" transform="translate(138.000000, 211.275107)">
+            <ellipse id="Oval" fill="#FFF4E8" cx="143.5" cy="307.224893" rx="29.5" ry="53.5"></ellipse>
+            <ellipse id="Oval" fill="#FFF4E8" transform="translate(52.500000, 237.224893) rotate(30.000000) translate(-52.500000, -237.224893) " cx="52.5" cy="237.224893" rx="29.5" ry="53.5"></ellipse>
+            <ellipse id="Oval" fill="#FFF4E8" transform="translate(57.500000, 348.224893) rotate(-40.000000) translate(-57.500000, -348.224893) " cx="57.5" cy="348.224893" rx="29.5" ry="53.5"></ellipse>
+            <rect id="Rectangle" fill="#FACD55" transform="translate(440.176858, 154.000000) rotate(-57.000000) translate(-440.176858, -154.000000) " x="329.176858" y="43" width="222" height="222"></rect>
+        </g>
+    </g>
+</svg>

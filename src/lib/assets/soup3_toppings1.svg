@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup3</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pepper" transform="translate(197.500000, 287.500000)">
+            <polygon id="Path" fill="#080808" points="35 101 35 117 52.5 109"></polygon>
+            <polygon id="Path" fill="#080808" points="88.5 69 80 79.5 97.5 88.5"></polygon>
+            <polygon id="Path" fill="#080808" points="34.5 158 26 168.5 43.5 177.5"></polygon>
+            <polygon id="Path" fill="#080808" points="117.5 133 109 143.5 121 143"></polygon>
+            <g id="Group-12" transform="translate(14.000000, 127.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(68.000000, 196.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(91.000000, 230.000000) rotate(20.000000) translate(-91.000000, -230.000000) translate(85.000000, 224.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(108.000000, 9.000000) rotate(30.000000) translate(-108.000000, -9.000000) translate(102.000000, 3.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(77.000000, 30.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <polygon id="Path" fill="#080808" points="56.5 138 48 148.5 59.5 158 68 148"></polygon>
+            <g id="Group-10" transform="translate(44.000000, 49.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-10" transform="translate(89.000000, 154.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-10" transform="translate(121.000000, 91.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-11" transform="translate(79.000000, 107.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="8 16.5 17 7.5 8.5 0 1 10"></polygon>
+            </g>
+            <g id="Group-11" transform="translate(0.000000, 71.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="8 16.5 17 7.5 8.5 0 1 10"></polygon>
+            </g>
+            <polygon id="Path-2" fill="#F5EAE7" points="35 109.5 52.5 109 43.5 103 36.5 106"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="85 75.5 94 80 93.5 69 86.5 72"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="112 133.5 121 138 120.5 127 113.5 130"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="30 160.5 39 165 38.5 154 31.5 157"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="52.5 144.5 63.5 153.5 66.5 148 56.5 143"></polygon>
+        </g>
+    </g>
+</svg>

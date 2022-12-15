@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup3</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(58.000000, 35.000000)">
+            <circle id="bowl_outer" fill="#A65DB0" cx="372.5" cy="389.619491" r="372"></circle>
+            <circle id="bowl_inner" fill="#5B3960" cx="372.5" cy="389.619491" r="355"></circle>
+            <circle id="broth" fill="#F7AF3F" cx="372.5" cy="389.619491" r="309"></circle>
+            <path d="M493.5,195.119491 C556.833333,72.706497 594,9.5 605,5.5 C621.5,-0.5 620.593846,-2.92804049 642.5,13.1194911 C664.406154,29.1670226 665.5,39.5 665.5,52.5 C665.5,61.1666667 616.666667,115.206497 519,214.619491 L493.5,195.119491 Z" id="spoon1" fill="#DCDCDC"></path>
+            <path d="M506,204.119491 C591.666667,76.7861577 637.166667,13.1194911 642.5,13.1194911 C650.5,13.1194911 665.5,39.5 665.5,52.5 C665.5,61.1666667 616.666667,115.206497 519,214.619491 L506,204.119491 Z" id="spoon1" fill="#BFBFBF"></path>
+        </g>
+        <g id="pepper" transform="translate(197.500000, 287.500000)">
+            <polygon id="Path" fill="#080808" points="35 101 35 117 52.5 109"></polygon>
+            <polygon id="Path" fill="#080808" points="88.5 69 80 79.5 97.5 88.5"></polygon>
+            <polygon id="Path" fill="#080808" points="34.5 158 26 168.5 43.5 177.5"></polygon>
+            <polygon id="Path" fill="#080808" points="117.5 133 109 143.5 121 143"></polygon>
+            <g id="Group-12" transform="translate(14.000000, 127.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(68.000000, 196.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(91.000000, 230.000000) rotate(20.000000) translate(-91.000000, -230.000000) translate(85.000000, 224.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(108.000000, 9.000000) rotate(30.000000) translate(-108.000000, -9.000000) translate(102.000000, 3.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <g id="Group-12" transform="translate(77.000000, 30.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 3 0 12 12 11.5714286"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="3 6.5 12 11 11.5 0 4.5 3"></polygon>
+            </g>
+            <polygon id="Path" fill="#080808" points="56.5 138 48 148.5 59.5 158 68 148"></polygon>
+            <g id="Group-10" transform="translate(44.000000, 49.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-10" transform="translate(89.000000, 154.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-10" transform="translate(121.000000, 91.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="0 10.5 11.5 20 15.5 15 5.5 5"></polygon>
+            </g>
+            <g id="Group-11" transform="translate(79.000000, 107.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="8 16.5 17 7.5 8.5 0 1 10"></polygon>
+            </g>
+            <g id="Group-11" transform="translate(0.000000, 71.000000)">
+                <polygon id="Path" fill="#080808" points="8.5 0 0 10.5 11.5 20 20 10"></polygon>
+                <polygon id="Path-2" fill="#F5EAE7" points="8 16.5 17 7.5 8.5 0 1 10"></polygon>
+            </g>
+            <polygon id="Path-2" fill="#F5EAE7" points="35 109.5 52.5 109 43.5 103 36.5 106"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="85 75.5 94 80 93.5 69 86.5 72"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="112 133.5 121 138 120.5 127 113.5 130"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="30 160.5 39 165 38.5 154 31.5 157"></polygon>
+            <polygon id="Path-2" fill="#F5EAE7" points="52.5 144.5 63.5 153.5 66.5 148 56.5 143"></polygon>
+        </g>
+        <g id="rosemary" transform="translate(443.000000, 403.341005)">
+            <path d="M0,201.658995 C1.66666667,204.658995 13.6666667,199.158995 36,185.158995 C49.2854129,176.830825 69.3396779,166.934201 91,145.158995 C100.834389,135.272445 116.667722,115.605779 138.5,86.1589947 L154,73.1589947 L96.5,148.158995 C71.3974944,167.614738 49.0641611,182.948071 29.5,194.158995 C9.93583888,205.369918 0.102505551,209.703252 0,207.158995 L0,201.658995 Z" id="Path-4" fill="#E6D292"></path>
+            <path d="M32,200.158995 C38.5,202.158995 83,114.658995 70.5,110.158995 C58,105.658995 25.5,198.158995 32,200.158995 Z" id="Path-3" fill="#538954" transform="translate(51.925996, 155.096379) rotate(10.000000) translate(-51.925996, -155.096379) "></path>
+            <path d="M69,217.158995 C75.5,219.158995 120,131.658995 107.5,127.158995 C95,122.658995 62.5,215.158995 69,217.158995 Z" id="Path-3" fill="#538954" transform="translate(88.925996, 172.096379) rotate(60.000000) translate(-88.925996, -172.096379) "></path>
+            <path d="M71,167.158995 C77.5,169.158995 122,81.6589947 109.5,77.1589947 C97,72.6589947 64.5,165.158995 71,167.158995 Z" id="Path-3" fill="#538954"></path>
+            <path d="M101,118.158995 C107.5,120.158995 152,32.6589947 139.5,28.1589947 C127,23.6589947 94.5,116.158995 101,118.158995 Z" id="Path-3" fill="#538954" transform="translate(120.925996, 73.096379) rotate(-22.000000) translate(-120.925996, -73.096379) "></path>
+            <path d="M129,93.1589947 C135.5,95.1589947 180,7.65899468 167.5,3.15899468 C155,-1.34100532 122.5,91.1589947 129,93.1589947 Z" id="Path-3" fill="#538954" transform="translate(148.925996, 48.096379) rotate(-10.000000) translate(-148.925996, -48.096379) "></path>
+            <path d="M153,102.158995 C159.5,104.158995 204,16.6589947 191.5,12.1589947 C179,7.65899468 146.5,100.158995 153,102.158995 Z" id="Path-3" fill="#538954" transform="translate(172.925996, 57.096379) rotate(20.000000) translate(-172.925996, -57.096379) "></path>
+            <path d="M131,145.158995 C137.5,147.158995 182,59.6589947 169.5,55.1589947 C157,50.6589947 124.5,143.158995 131,145.158995 Z" id="Path-3" fill="#538954" transform="translate(150.925996, 100.096379) rotate(40.000000) translate(-150.925996, -100.096379) "></path>
+            <path d="M101,182.158995 C107.5,184.158995 152,96.6589947 139.5,92.1589947 C127,87.6589947 94.5,180.158995 101,182.158995 Z" id="Path-3" fill="#538954" transform="translate(120.925996, 137.096379) rotate(50.000000) translate(-120.925996, -137.096379) "></path>
+        </g>
+    </g>
+</svg>

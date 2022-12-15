@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="850px" viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>soup4</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-20" transform="translate(135.165275, 135.576479)">
+            <g id="Group-18" transform="translate(128.881938, 220.423521)">
+                <path d="M92.5,196.112714 C120.39038,196.112714 168.242285,159.081517 168.242285,110.480459 C168.242285,61.8794006 120.39038,20.1127141 92.5,20.1127141 C64.6096201,20.1127141 42,59.5116561 42,108.112714 C42,156.713772 64.6096201,196.112714 92.5,196.112714 Z" id="Oval" fill="#DA7B1C" transform="translate(105.121143, 108.112714) rotate(40.000000) translate(-105.121143, -108.112714) "></path>
+                <ellipse id="Oval" fill="#FF8C19" transform="translate(95.452786, 100.000000) rotate(40.000000) translate(-95.452786, -100.000000) " cx="95.4527865" cy="100" rx="50.5" ry="88"></ellipse>
+            </g>
+            <g id="Group-18" transform="translate(327.745036, 103.000000) scale(-1, 1) rotate(17.000000) translate(-327.745036, -103.000000) translate(247.245036, 20.000000)">
+                <path d="M70.6621647,149.94251 C91.9658493,149.969186 128.481428,121.716714 128.434955,84.577057 C128.388393,47.4374001 91.797395,15.4745909 70.4937105,15.4478785 C49.1900259,15.4212017 31.9576871,45.507202 32.0041105,82.6468588 C32.0507218,119.786516 49.3584802,149.915796 70.6621647,149.94251 Z" id="Oval" fill="#DA7B1C" transform="translate(80.219533, 82.695194) rotate(40.000000) translate(-80.219533, -82.695194) "></path>
+                <ellipse id="Oval" fill="#FF8C19" transform="translate(72.833643, 76.497696) rotate(40.000000) translate(-72.833643, -76.497696) " cx="72.8336427" cy="76.4976959" rx="38.5738271" ry="67.2473152"></ellipse>
+            </g>
+            <g id="Group-19" transform="translate(431.334725, 125.423521)">
+                <polygon id="Path-5" fill="#F98F26" points="74 150 0 43.5 57.5 0"></polygon>
+                <polygon id="Path-5" fill="#DA7B1C" points="74 150 104.5 60 57.5 0"></polygon>
+            </g>
+            <g id="Group-17" transform="translate(77.000000, 306.398892) rotate(-31.000000) translate(-77.000000, -306.398892) translate(29.000000, 238.398892)">
+                <polygon id="Path-5" fill="#F98F26" points="67.6254371 135.941805 0.625437073 40.091805 52.6862479 0.941805017"></polygon>
+                <polygon id="Path-5" fill="#DA7B1C" points="67.6806696 135.452586 95.5849249 54.4525862 52.5849249 0.452586249"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

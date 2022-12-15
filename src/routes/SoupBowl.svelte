@@ -1,5 +1,4 @@
 <script>
-  import { fade } from 'svelte/transition';
   import { circOut} from 'svelte/easing';
   export let width = '850px';
   export let height = '850px';
@@ -11,9 +10,6 @@
 		return {
       duration: duration,
       easing: circOut,
-			// The value of t passed to the css method
-			// varies between zero and one during an "in" transition
-			// and between one and zero during an "out" transition.
 			css(t) {
 				return `transform: scale(${Math.min(t * 1.3, 1)}) rotate(${t * degrees}deg); opacity: ${t};`;
 			}
