@@ -20,6 +20,8 @@
   import soup7_toppings2 from "$lib/assets/soup7_toppings2.svg";
   import soup8_toppings1 from "$lib/assets/soup8_toppings1.svg";
   import soup8_toppings2 from "$lib/assets/soup8_toppings2.svg";
+  import soup9_toppings1 from "$lib/assets/soup9_toppings1.svg";
+  import soup9_toppings2 from "$lib/assets/soup9_toppings2.svg";
 
   let index = 0;
   const bgColor = "#ebebeb";
@@ -200,6 +202,34 @@
       toppings1: soup6_toppings2,
       toppings2: soup6_toppings1,
     },
+    // Jeff's Lentil
+    { 
+      bowl_outer: {
+        fill: "#6E9A59",
+        r: 345
+      },
+      bowl_inner: {
+        fill: "#466139",
+        r: 329
+      },
+      broth: {
+        fill: "#A26A1F",
+        r: 290
+      },
+      spoon1: {
+        fill: "#666666",
+        d: "M555,187.619491 C613,86.8731637 649.5,35.1666667 664.5,32.5 C687,28.5 698.5,-1.61949108 711.5,8 C724.5,17.6194911 698.5,45.5 698.5,58.5 C698.5,67.1666667 658.666667,115.833333 579,204.5 L555,187.619491 Z"
+      },
+      spoon2: {
+        fill: "#464646",
+        d: "M568,196.5 C658.333333,74.8333333 706.166667,14 711.5,14 C719.5,14 708.5,34 711.5,52 C713.5,64 670,115.666667 581,207 L568,196.5 Z",
+      },
+      submitter: "Jeff",
+      title: "Lentil Soup",
+      paragraphs: ["Few dishes achieve the trifecta of comforting, hearty, and nutritious quite like lentil soup.", "With so many types of lentils and supporting-ingredients to add, you have no excuse to not try a new lentil soup soon."],
+      toppings1: soup9_toppings2,
+      toppings2: soup9_toppings1,
+    },
     // Shannon's Gumbo
     { 
       bowl_outer: {
@@ -257,10 +287,6 @@
       toppings1: soup8_toppings2,
       toppings2: soup8_toppings1,
     },
-   /**
-    * 
-    * Kelsey: thanksgiving turkey soup. the day after thanksgiving we always make soup. just take your turkey carcass, put it in a pot, fill it with water, let it simmer the entire day (or however long you’d like) while skimming off fat, and add salt to taste. you can eat it with whatever you like, but we like to throw in some somen noodles, green onion, leftover turkey, and sometimes lao gan ma.
-   */
   ]
 
   const sceneWidth = 600;
