@@ -16,7 +16,7 @@
     z-index: 1000;
     width: 400px;
     max-width: 100%;
-    margin-bottom: 65vh;
+    margin-bottom: 60vh;
     box-sizing: border-box;
   }
 </style>

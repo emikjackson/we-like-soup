@@ -285,7 +285,7 @@
           {/each}
           {#if soup.link}
             <p>
-              <a href={soup.link} style="font-style:italic;" target="_blank" rel="noopener noreferrer">Try the recipe</a>
+              <a href={soup.link} style="font-style:italic;" target="_blank" rel="noopener noreferrer">Recipe link</a>
             </p>
           {/if}
         </Tile>
@@ -337,6 +337,11 @@
     font-size: 0.8rem;
     color: #8f8f8f;
   }
+
+  a {
+    color: rgb(21, 89, 21);
+  }
+  
   @media only screen and (max-width: 800px) {
     .offset{
       display: none;
