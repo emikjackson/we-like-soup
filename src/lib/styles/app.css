@@ -1,19 +1,20 @@
 body {
   margin: 0px;
   font-size: 1.4em;
-  /* background: linear-gradient(rgb(247, 253, 255), #fff); */
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   /* font-family: 'Poor Story', sans-serif; */
   font-family: 'Caveat', cursive;
 }
 
 p {
-  font-size: 1.1rem;
-  font-family: 'Noto Serif', serif;
-  color: rgb(39, 39, 39);
+  font-size: 1rem;
+  color: rgb(50, 50, 50);
   font-family: 'Signika Negative', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  line-height: 1.5rem;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
