@@ -2,6 +2,7 @@
   import SoupScroller from './SoupScroller.svelte';
   import SpoonHero from './SpoonHero.svelte';
   import lights from '$lib/assets/lights.svg';
+  import logo from '$lib/assets/ja-logo-horizontal.svg';
 </script>
 
 
@@ -29,6 +30,12 @@
   <p>That's it! Those were all of our soups.</p>
   <p style="margin-top:0px;">Did our ideas delight? Or make you doubt?</p>
   <p style="margin-top:0px;">We hope you are inspired to try a soup of your own. Happy souping! :)</p>
+
+  <div class="logo">
+    <a href="https://www.januaryadvisors.com/" target="_blank" rel="noopener noreferrer">
+      <img src={logo} alt="January Advisors" />
+    </a>
+  </div>
 </div>
 
 <style>
@@ -63,10 +70,24 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: relative;
   }
 
   .wrapper > p {
     text-align: center;
+  }
+
+  .logo {
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .logo img {
+    width: 150px;
+    height: 24px;
   }
 
   h1 {
