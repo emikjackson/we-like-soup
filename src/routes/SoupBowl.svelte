@@ -9,14 +9,14 @@
   function spin(node, options) {
     const duration = (options || {}).duration || 2000;
     const degrees = (options || {}).degrees || 360;
-		return {
+    return {
       duration: duration,
       easing: circOut,
-			css(t) {
-				return `transform: scale(${Math.min(t * 1.3, 1)}) rotate(${t * degrees}deg); opacity: ${t};`;
-			}
-		};
-	}
+      css(t) {
+        return `transform: scale(${Math.min(t * 1.3, 1)}) rotate(${t * degrees}deg); opacity: ${t};`;
+      }
+    };
+  }
 </script>
 
 <div style={`width:${width};height:${height};`} class="wrapper">
@@ -49,7 +49,6 @@
 </div>
 
 <style>
-
   .wrapper {
     position: relative;
   }
@@ -65,5 +64,4 @@
     left: 0px;
     opacity: 1;
   }
-
 </style>
