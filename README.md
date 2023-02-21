@@ -4,7 +4,7 @@
 
 Little soup app displaying the JA team's favorite winter soups in 2022. Used to test out Svelte and play around with some SVG animations.
 
-This project is built with SvelteKit (see [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)) and deployed using Vercel.
+This project is built with Svelte + SvelteKit (see [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)) and utilizes the Pudding's [Scrolly](https://github.com/the-pudding/svelte-starter/blob/main/src/components/helpers/Scrolly.svelte) component for handling the scroll update calcultions. SVG graphics created in Sketch, with some dynamic updates in the app. Deployed using Vercel. 
 
 ### View live site here → [we-like-soup.vercel.app](https://we-like-soup.vercel.app/) :shallow_pan_of_food:
 
