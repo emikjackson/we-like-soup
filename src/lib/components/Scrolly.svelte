@@ -1,6 +1,7 @@
 <script>
 	/**
-	 * From the Pudding! tyty
+	 * Scrolly component from the Pudding!
+	 * https://github.com/the-pudding/svelte-starter/blob/main/src/components/helpers/Scrolly.svelte
 	 * 
 	 * This component manages which item is most in view for scroll triggering
 	 * example:

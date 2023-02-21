@@ -1,9 +1,11 @@
 <script>
+  // Component displaying shape-shifting SVG soup bowl + spoon, & rotating topping images
   import { circOut} from 'svelte/easing';
   export let width = '850px';
   export let height = '850px';
   export let bowl_outer, bowl_inner, broth, spoon1, spoon2, toppings1, toppings2;
 
+  // Custom svelte transition to create spinny toppings effect (rotate & change size & opacity)
   function spin(node, options) {
     const duration = (options || {}).duration || 2000;
     const degrees = (options || {}).degrees || 360;
@@ -18,13 +20,16 @@
 </script>
 
 <div style={`width:${width};height:${height};`} class="wrapper">
+  <!-- Soup bowl, broth, & spoon SVG -->
   <svg {width} {height} viewBox="0 0 850 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- A little white gradient on top of soup to give it a slightly reflective -->
     <defs>
       <radialGradient cx="-8.80883836%" cy="-19.1833764%" fx="-8.80883836%" fy="-19.1833764%" r="103.358631%" id="radialGradient-1">
         <stop stop-color="#FFFFFF" offset="0%"></stop>
         <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
       </radialGradient>
     </defs>
+    <!-- SVG circles for the bowl & broth (accept fill & radius) and SVG paths for the spoon (accepts fill and d) -->
     <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
       <circle id="bowl_outer" fill={bowl_outer.fill} cx="424.5" cy="424.5" r={bowl_outer.r}></circle>
       <circle id="bowl_inner" fill={bowl_inner.fill}  cx="424.5" cy="424.5" r={bowl_inner.r}></circle>
@@ -34,6 +39,7 @@
       <path id="spoon2" fill={spoon2.fill} d={spoon2.d}></path>
     </g>
   </svg>
+  <!-- Soup toppings display, using keys to trigger spin transitions when toppings change -->
   {#key toppings1}
     <img transition:spin style={`width:${width};height:${height};`} src={toppings1} alt="" />
   {/key}

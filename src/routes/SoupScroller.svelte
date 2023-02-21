@@ -1,9 +1,11 @@
 <script>
+  // Scroller displaying animated soup bowls, one for each team member!
   import Scrolly from "$lib/components/Scrolly.svelte";
   import Section from "$lib/components/Section.svelte";
   import Tile from "$lib/components/Tile.svelte";
   import SoupBowl from "./SoupBowl.svelte";
 
+  // Import all of the toppings from our asset library
   import soup1_toppings1 from "$lib/assets/soup1_toppings1.svg";
   import soup1_toppings2 from "$lib/assets/soup1_toppings2.svg";
   import soup2_toppings1 from "$lib/assets/soup2_toppings1.svg";
@@ -26,6 +28,7 @@
   let index = 0;
   const bgColor = "#ebebeb";
 
+  // SVG & text information for each team member's soup.
   let soups = [
     // Gerard's kale soup
     { 
@@ -56,7 +59,7 @@
       toppings1: soup1_toppings1,
       toppings2: soup1_toppings2,
     },
-    // Emi's fishy fridge soup
+    // Emi's veggie soba soup
     { 
       bowl_outer: {
         fill: "#6696B4",
@@ -291,13 +294,18 @@
 
   const sceneWidth = 600;
   const tileWidth = 350;
+
+  // Instead of updating these on a timed interval, in the code below we'll use the "Scrolly" component
+  // to update the soup index when the user scrolls down!
 </script>
 
 <Section {bgColor}>
+  <!-- Soup bowl display (stays in same position while user is in scrolling section - sticky) -->
   <div class="sticky">
     <SoupBowl width="600px" height="750px" {...soups[index]} />
     <div class="offset" style={`width:${tileWidth}px;`} />
   </div>
+  <!-- Scrolling section with text and recipe link (if available) for each soup -->
   <div class="text mobile-offset">
     <div class="offset" style={`width:${sceneWidth}px;`} />
     <Scrolly bind:value={index}>

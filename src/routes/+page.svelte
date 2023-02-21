@@ -5,15 +5,18 @@
   import logo from '$lib/assets/ja-logo-horizontal.svg';
 </script>
 
-
+<!-- Decorative veggie string lights -->
 <div class="top-lights">
   <img src={lights} alt="" />
 </div>
 
+<!-- Intro section -->
 <div class="wrapper">
+
   <h2>'Tis the season of</h2>
   <h1>Soup</h1>
 
+  <!-- Shape-shifting spoon hero-image -->
   <SpoonHero />
 
   <h3>Some soup inspiration from the January Advisors team</h3>
@@ -24,8 +27,10 @@
   </div>
 </div>
 
+<!-- Soup scrolling section, displaying each team member's animated soup & related text -->
 <SoupScroller />
 
+<!-- Closing section -->
 <div class="wrapper">
   <p>That's it! Those were all of our soups.</p>
   <p style="margin-top:0px;">Did our ideas delight? Or make you doubt?</p>

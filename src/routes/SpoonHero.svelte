@@ -1,5 +1,5 @@
 <script>
-  // Animated spoon SVGs, rotating on a set interval
+  // Animated spoon & shadow SVGs, rotating on a set interval
   import { onInterval } from '$lib/utils/helpers.js';
 
   export let interval = 1500;
@@ -8,7 +8,9 @@
   let height = 300;
   let index = 0;
 
-  const paths = [
+  // SVG display information for each spoon type.
+  // Each object has the path outline (d) & fill for the spoon and shadow.
+  const spoons = [
     {
       spoon: { 
         d: "M709,34 C672,44 295.5,346 266,361.5 C236.5,377 164.5,340 115.5,369.5 C66.5,399 18.5,465 68,527 C117.5,589 223.5,577 266,527 C308.5,477 260.5,423 304.5,395.5 C348.5,368 746.5,98 751.5,71 C756.5,44 746,24 709,34 Z",
@@ -41,14 +43,15 @@
     }
   ]
 
-  onInterval(() => index = (index + 1)%(paths.length), interval);
+  // On a set interval, update the index to change the displayed spoon
+  onInterval(() => index = (index + 1)%(spoons.length), interval);
 
 </script>
 
 <svg width={`${width}px`} height={`${height}px`} viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <path d={paths[index].spoon.d} fill={paths[index].spoon.fill} id="spoon"></path>
-      <path d={paths[index].shadow.d} fill={paths[index].shadow.fill} id="shadow"></path>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <path d={spoons[index].spoon.d} fill={spoons[index].spoon.fill} id="spoon"></path>
+      <path d={spoons[index].shadow.d} fill={spoons[index].shadow.fill} id="shadow"></path>
   </g>
 </svg>
 
